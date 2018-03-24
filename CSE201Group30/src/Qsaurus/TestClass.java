@@ -6,6 +6,7 @@ public class TestClass {
 		// TODO Auto-generated method stub
 		System.out.println("This was added by Project Lead");	
 		System.out.println("Added by team member");
+		System.out.println("Fixed Issue1");
 	}
 
 }
