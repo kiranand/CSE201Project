@@ -7,6 +7,7 @@ public class TestClass {
 		System.out.println("This was added by Project Lead");	
 		System.out.println("Added by team member");
 		System.out.println("Fixed Issue1");
+		System.out.println("Create new branch on remote");
 	}
 
 }
